@@ -18,8 +18,6 @@ This Python script scrapes job listings from LinkedIn’s public job search API 
 ![Screenshot (1385)](https://github.com/user-attachments/assets/6204afac-5e10-4f01-b95d-70e8d21bdb12)
 
 ## Requirements
-
-- Python 3.6+
 - `requests` library
 - `beautifulsoup4` library
 
