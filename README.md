@@ -8,7 +8,7 @@ This Python script scrapes job listings from LinkedIn’s public job search API 
 
 - Scrapes job postings for a given keyword and location
 - Extracts job title, company name, location, and job URL
-- Handles pagination by fetching multiple pages (up to 75 results in this example)
+- Handles pagination by fetching multiple pages 
 - Uses `requests` and `BeautifulSoup` for HTTP requests and HTML parsing
 - Includes basic error handling and polite delays between requests
 
